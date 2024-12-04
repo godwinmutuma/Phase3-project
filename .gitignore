@@ -1,0 +1,11 @@
+# Ignore temporary PowerPoint files
+~$*.pptx
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other common ignores (optional)
+*.log
+*.tmp
+.DS_Store
+*.swp
